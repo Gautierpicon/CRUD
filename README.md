@@ -1,8 +1,6 @@
 
 # CRUD
 
-[crud-one-rosy.vercel.app](https://crud-one-rosy.vercel.app/)
-
 CRUD is an acronym widely used in computing. It refers to the four basic operations for manipulating persistent data:
 - Create: Add new data.
 - Read: View or search existing data.
